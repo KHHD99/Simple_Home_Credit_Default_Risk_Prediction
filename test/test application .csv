@@ -1,0 +1,35 @@
+CODE_GENDER,CNT_CHILDREN,NAME_TYPE_SUITE,NAME_INCOME_TYPE,NAME_EDUCATION_TYPE,NAME_HOUSING_TYPE,DAYS_BIRTH,DAYS_REGISTRATION,DAYS_ID_PUBLISH,FLAG_EMP_PHONE,FLAG_WORK_PHONE,CNT_FAM_MEMBERS,REGION_RATING_CLIENT,REGION_RATING_CLIENT_W_CITY,REG_REGION_NOT_LIVE_REGION,REG_REGION_NOT_WORK_REGION,REG_CITY_NOT_LIVE_CITY,REG_CITY_NOT_WORK_CITY,LIVE_CITY_NOT_WORK_CITY,OBS_30_CNT_SOCIAL_CIRCLE,DEF_30_CNT_SOCIAL_CIRCLE,OBS_60_CNT_SOCIAL_CIRCLE,DEF_60_CNT_SOCIAL_CIRCLE,DAYS_LAST_PHONE_CHANGE,FLAG_DOCUMENT_3,AMT_REQ_CREDIT_BUREAU_YEAR
+M,0,Unaccompanied,Commercial associate,Secondary / secondary special,House / apartment,-16532,-101.0,-84,1,0,1.0,2,2,0,0,0,0,0,0.0,0.0,0.0,0.0,-284.0,1,1.0
+F,0,Unaccompanied,Commercial associate,Higher education,House / apartment,-21022,-3528.0,-4578,1,0,1.0,2,2,0,0,0,0,0,1.0,0.0,1.0,0.0,-1518.0,1,2.0
+M,0,Unaccompanied,Commercial associate,Secondary / secondary special,House / apartment,-16582,-988.0,-124,1,1,1.0,2,2,0,0,0,0,0,2.0,0.0,2.0,0.0,-2210.0,1,2.0
+M,0,Unaccompanied,Commercial associate,Secondary / secondary special,House / apartment,-14655,-4822.0,-5181,1,1,2.0,1,1,0,1,0,1,1,3.0,0.0,3.0,0.0,0.0,1,1.0
+F,1,Unaccompanied,State servant,Higher education,House / apartment,-11952,-2429.0,-4622,1,1,3.0,2,2,0,0,1,1,0,0.0,0.0,0.0,0.0,-1291.0,1,1.0
+F,0,Family,Commercial associate,Secondary / secondary special,House / apartment,-14702,-8781.0,-4810,1,0,2.0,2,2,0,0,0,0,0,4.0,1.0,4.0,1.0,0.0,1,7.0
+F,0,Unaccompanied,Working,Secondary / secondary special,House / apartment,-13384,-45.0,-4409,1,1,2.0,3,3,0,0,0,0,0,1.0,0.0,1.0,0.0,-1480.0,1,2.0
+M,3,Unaccompanied,Commercial associate,Higher education,House / apartment,-15326,-782.0,-792,1,0,5.0,2,2,0,0,0,0,0,0.0,0.0,0.0,0.0,-429.0,0,2.0
+M,0,Other_A,Commercial associate,Secondary / secondary special,House / apartment,-12209,-6348.0,-4551,1,0,1.0,2,2,0,0,0,0,0,3.0,1.0,3.0,1.0,-2149.0,1,0.0
+M,0,Family,Pensioner,Secondary / secondary special,House / apartment,-13707,-7809.0,-4436,0,0,1.0,2,2,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1.0
+M,0,Unaccompanied,Working,Secondary / secondary special,House / apartment,-9461,-3648.0,-2120,1,0,1.0,2,2,0,0,0,0,0,2.0,2.0,2.0,2.0,-1134.0,1,1.0
+F,0,Unaccompanied,Working,Secondary / secondary special,House / apartment,-18724,-6573.0,-1827,1,0,1.0,3,2,0,0,0,0,0,10.0,1.0,10.0,0.0,-161.0,1,2.0
+M,0,Unaccompanied,Commercial associate,Secondary / secondary special,House / apartment,-17482,-1182.0,-1029,1,0,2.0,2,2,0,0,0,0,0,0.0,0.0,0.0,0.0,-1075.0,1,4.0
+F,0,Unaccompanied,Pensioner,Secondary / secondary special,House / apartment,-24794,-5391.0,-4199,0,0,2.0,2,2,0,0,0,0,0,1.0,1.0,1.0,1.0,0.0,0,0.0
+M,0,Family,Commercial associate,Incomplete higher,With parents,-10199,-4802.0,-1038,1,0,1.0,2,2,0,0,0,1,1,0.0,0.0,0.0,0.0,-591.0,1,2.0
+F,1,Unaccompanied,Commercial associate,Incomplete higher,House / apartment,-10526,-387.0,-3190,1,0,2.0,2,2,0,1,0,1,1,0.0,0.0,0.0,0.0,-56.0,1,0.0
+M,0,Unaccompanied,Working,Higher education,House / apartment,-16667,-5239.0,-114,1,1,2.0,2,2,1,1,1,1,0,0.0,0.0,0.0,0.0,-106.0,0,0.0
+F,0,Unaccompanied,Working,Secondary / secondary special,House / apartment,-17538,-774.0,-1082,1,0,1.0,2,2,0,0,0,0,0,0.0,0.0,0.0,0.0,-216.0,1,6.0
+F,0,Unaccompanied,Commercial associate,Secondary / secondary special,With parents,-7989,-2570.0,-646,1,1,1.0,2,2,0,0,0,1,1,0.0,0.0,0.0,0.0,-122.0,0,0.0
+F,0,Unaccompanied,Working,Secondary / secondary special,House / apartment,-12824,-6764.0,-126,1,0,2.0,2,2,0,0,0,0,0,0.0,0.0,0.0,0.0,-309.0,1,0.0
+M,1,"Spouse, partner",Working,Secondary / secondary special,House / apartment,-17847,-3595.0,-1381,1,0,3.0,2,2,0,0,0,0,0,1.0,0.0,1.0,0.0,-238.0,1,0.0
+M,1,Unaccompanied,Commercial associate,Secondary / secondary special,House / apartment,-11356,-335.0,-3224,1,0,2.0,1,1,1,0,0,0,0,3.0,0.0,3.0,0.0,-14.0,1,1.0
+M,1,Unaccompanied,Working,Secondary / secondary special,House / apartment,-8292,-3062.0,-16,1,0,3.0,2,2,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2.0
+M,0,Unaccompanied,Pensioner,Secondary / secondary special,House / apartment,-22078,-6748.0,-4542,0,0,2.0,3,3,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,0.0
+F,0,Unaccompanied,Commercial associate,Secondary / secondary special,House / apartment,-13989,-8112.0,-4715,1,1,1.0,2,2,0,0,0,0,0,1.0,1.0,1.0,0.0,-1781.0,1,1.0
+M,0,Unaccompanied,Working,Secondary / secondary special,House / apartment,-18302,-4005.0,-1281,1,0,1.0,2,2,0,0,0,1,1,0.0,0.0,0.0,0.0,-745.0,1,1.0
+M,0,Unaccompanied,Working,Secondary / secondary special,House / apartment,-8038,-8038.0,-727,1,0,2.0,2,2,0,0,1,1,0,6.0,0.0,6.0,0.0,-510.0,1,1.0
+M,1,Unaccompanied,Working,Secondary / secondary special,House / apartment,-13923,-10704.0,-4739,1,1,3.0,2,2,0,0,0,0,0,1.0,1.0,1.0,1.0,-2527.0,1,0.0
+M,1,"Spouse, partner",Working,Secondary / secondary special,House / apartment,-13715,-6193.0,-3754,1,1,3.0,2,2,0,0,0,1,1,0.0,0.0,0.0,0.0,-1364.0,1,3.0
+M,1,Unaccompanied,Working,Secondary / secondary special,House / apartment,-11353,-2513.0,-3962,1,1,3.0,2,2,0,0,0,0,0,0.0,0.0,0.0,0.0,-443.0,1,0.0
+F,1,Unaccompanied,State servant,Secondary / secondary special,House / apartment,-9289,-823.0,-1952,1,0,2.0,3,3,0,0,0,0,0,0.0,0.0,0.0,0.0,-683.0,1,4.0
+F,2,Unaccompanied,Working,Secondary / secondary special,House / apartment,-10616,-3964.0,-2700,1,1,3.0,3,3,0,0,0,1,1,1.0,0.0,1.0,0.0,-697.0,0,1.0
+M,0,Unaccompanied,Working,Secondary / secondary special,House / apartment,-10037,-781.0,-2714,1,1,2.0,2,2,0,1,0,1,1,0.0,0.0,0.0,0.0,-1401.0,1,3.0
+M,0,Unaccompanied,Working,Secondary / secondary special,House / apartment,-8063,-738.0,-735,1,0,2.0,2,2,0,0,0,0,0,1.0,0.0,1.0,0.0,-390.0,0,0.0
