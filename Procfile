@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run CC_FD_WebApp.py
+web: sh setup.sh && streamlit run WebApp.py
